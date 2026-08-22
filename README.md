@@ -196,6 +196,7 @@ If you are using WSL (Windows Subsystem for Linux), follow the Linux installatio
 For native Windows (without WSL):
 
 · Install XAMPP for PHP: https://www.apachefriends.org/
+
 · Install Git Bash to run the script: https://git-scm.com/download/win
 
 ---
@@ -211,3 +212,7 @@ unzip -v
 curl --version
 xclip -version
 ```
+
+## Tested on: Kali linux
+
+
